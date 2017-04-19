@@ -1,0 +1,27 @@
+body{
+  background-color: #000000;
+  color: #ae2e69;
+  font-family: 'Fjalla One', sans-serif;
+
+}
+
+.movie-wrapper {
+
+  width: 400px;
+  font-size: 5rem;
+  text-align: left;
+
+
+}
+
+.container {
+  margin: auto;
+  align-self: center;
+  margin: 10 500 10 500; 
+}
+
+.info {
+
+  color: #577223;
+  gradient: 50%;
+}
